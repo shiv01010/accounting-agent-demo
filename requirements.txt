@@ -1,0 +1,19 @@
+# Core LangGraph and LangChain libraries
+langgraph
+langchain
+langchain_core
+
+# For using OpenAI models (can be swapped for langchain-google-vertexai)
+langchain_openai
+
+# Google Cloud SDK for deployment and interaction
+google-cloud-aiplatform
+
+# For loading environment variables
+python-dotenv
+
+#Supabase client for database interactions
+supabase
+
+cloudpickle
+
